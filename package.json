@@ -1,0 +1,12 @@
+{
+  "name": "CrazyWheel",
+  "uuid": "f0259873-5235-47cf-8591-b0dd50777a62",
+  "creator": {
+    "version": "3.7.2"
+  },
+  "dependencies": {
+    "@onechaintech/gamesdk": "^0.0.31",
+    "@onechaintech/gamesdk-beta": "^0.0.18",
+    "@onechaintech/gamesdk-dev": "^0.0.31"
+  }
+}
